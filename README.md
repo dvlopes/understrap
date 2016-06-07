@@ -1,10 +1,23 @@
 Start talking: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/holger1411/understrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
+## About
+
+I’m a huge fan of Underscores, Bootstrap, and Sass. Why not combine these into a solid WordPress Theme Framework?
+That’s what UnderStrap is. 
+You can use it as starter theme and build your own theme on top of it. Or you use it as parent theme and create your own child theme for UnderStrap.
+
+At the moment, UnderStrap is in a very early stage. But if you wan’t, feel free to use it for your own WordPress theme!
+
 # UnderStrap WordPress Theme Framework
 
 Website: [http://understrap.com](http://understrap.com)
 
 Child Theme Project: [https://github.com/holger1411/understrap-child](https://github.com/holger1411/understrap-child)
+
+## License
+UnderStrap is released under the terms of the GPL version 2 or (at your option) any later version.
+
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
 ## Changelog
 
@@ -73,12 +86,6 @@ Child Theme Project: [https://github.com/holger1411/understrap-child](https://gi
 
             - **0.1 Dec. 10th 2014 - First commit**
 
-## About
-
-I’m a huge fan of Underscores, Bootstrap, and Sass. Why not combine these into a solid WordPress Theme Framework?
-That’s what UnderStrap is (or will be…)
-
-At the moment, UnderStrap is in a very early stage. But if you wan’t, feel free to use it for your own WordPress theme!
 
 ## Basic Features
 
@@ -117,7 +124,8 @@ Some basics about the Sass and CSS files that come with UnderStrap:
 
 ## Installation
 
-- Download the understrap folder
+- Download the understrap folder from GitHub or from understrap.com
+- IMPORTANT: If you download it from GitHub make sure you rename the "understrap-master.zip" file just to "understrap.zip" or you might have problems using child themes !!
 - Upload it into your WordPress installation subfolder here: `/wp-content/themes/`
 - Login to your WordPress backend
 - Go to Appearance → Themes
